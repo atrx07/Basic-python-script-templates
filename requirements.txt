@@ -1,0 +1,5 @@
+pillow
+PyPDF2
+yt-dlp
+requests
+beautifulsoup4
